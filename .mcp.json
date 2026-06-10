@@ -8,7 +8,7 @@
 				"@modelcontextprotocol/server-github"
 			],
 			"env": {
-				"GITHUB_PERSONAL_ACCESS_TOKEN": "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"
+				"GITHUB_PERSONAL_ACCESS_TOKEN": "your_token_here"
 			}
 		},
 		"svelte": {
