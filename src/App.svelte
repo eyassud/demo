@@ -1,1 +1,8 @@
-<h1>Hello Awesome Svelte Developer</h1>
+<script lang="ts">
+  import Fun from './Fun.svelte'
+  import Funny from './Funny.svelte';
+</script>
+
+<h1>Hello You Svelte Developer</h1>
+<Fun />
+<Funny />
